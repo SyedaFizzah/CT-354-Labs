@@ -9,6 +9,6 @@ As a student of **CTAI-22020**, I have created this repository to document and s
 
   
 Each lab includes:
-- Code files (`.py`, `.ipynb`, etc.)
+- Code files (`.py`, `.ipynb`)
 - Supporting datasets (if applicable)
 - Documentation or reports (if applicable)
